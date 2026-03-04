@@ -1,0 +1,28 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="q2KrCtleccU8p9ulujyu">
+    <mxGraphModel dx="724" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U5X1tS6e4kcYNxZgPMdy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5X1tS6e4kcYNxZgPMdy-1" target="U5X1tS6e4kcYNxZgPMdy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5X1tS6e4kcYNxZgPMdy-1" value="НАЧАЛО" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="344" y="10" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5X1tS6e4kcYNxZgPMdy-2" value="int flag = sonar.ping_cm()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="100" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5X1tS6e4kcYNxZgPMdy-25" value="КОНЕЦ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5X1tS6e4kcYNxZgPMdy-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.5" y="190" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5X1tS6e4kcYNxZgPMdy-29" value="int flag = sonar.ping_cm()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="146" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
